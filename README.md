@@ -35,10 +35,13 @@ css for styling the app making it visually appealing.
 
 Javascript was used to handles the fucntionality, including API calls, DOM manipulation, event handeling.
   Specifically what was used were:
-    Api Fetching
-    XML Parsing
-    Event Handling
+    Api Fetching,
+    XML Parsing,
+    Event Handling,
     DOM Manipulation
+
+Finnkino API gives the live data of the schedule, age rating, location and genre.
+OMBD API gives the genre and poster
 
 ## Setup
 How to run the app:
