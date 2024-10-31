@@ -55,6 +55,4 @@ List of contriubutors and sources you used during the project. Also mention if y
 - [Beginners guide to BEM](link-goes-here.com)
 
 ## License
-Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Example: MIT license @ [author](author.com)
+MIT license @ [author](author.com)
