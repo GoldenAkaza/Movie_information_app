@@ -60,7 +60,6 @@ Use this [link](https://movie-info-app311024.netlify.app/).
 Movie info app is operational when downloading the files with minor issues like some movie poster not appearing.
 
 ## Credits
-List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
 In this project ChatGPT was used as a tool to help with syntax.
 
 ## License
