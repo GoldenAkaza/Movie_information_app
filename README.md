@@ -16,13 +16,14 @@ Access my site at [google.com](https://google.com)
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+This app let's you look up todays movies. You can select the "Area/Theater" to bring up movies shown in that place or use the search bar to find a movie.
+In this app you see the movie poster(some posters doesn't work), name, starting time, location/auditorium, genre and age rating
 
 ## Screenshots
-Add here atleast one screenshot of the working application 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+![image](https://github.com/user-attachments/assets/22f86d7e-dc75-41fe-bbf7-220eb9beb9e1)
+![image](https://github.com/user-attachments/assets/1fb25b0f-907f-4fda-b214-084019ec57a0)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+Pictures by Jasper Huhtala
 
 ## Technologies
 Describe which technologies were used and the role of each in your project. 
@@ -40,19 +41,27 @@ Javascript was used to handles the fucntionality, including API calls, DOM manip
     DOM Manipulation
 
 ## Setup
-Write brief instructions on how to run and use your app. For example:
-- download all the files and open index.html in your browser
-- download or clone the repository
-- run `npm install`
-- ...
+How to run the app:
+1. Download the following files:
+   index.html
+   script.js
+   styles.css
+
+2. After downloading the files open the index.html file and enjoy.
+
+OR
+
+Use this [link](https://movie-info-app311024.netlify.app/).
+(The app in link isn't working due to not being able to load all the resources thus preventing the app from working.)
+   
+     
 
 ## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+Movie info app is operational when downloading the files with minor issues like some movie poster not appearing.
 
 ## Credits
 List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+In this project ChatGPT was used as a tool to help with syntax.
 
 ## License
-MIT license @ [author](author.com)
+MIT license
